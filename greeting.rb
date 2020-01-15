@@ -1,11 +1,6 @@
-def greeting
-  puts "Hello World Maximus Says"
+def NYCSPORTS
+  puts "Ringels View on NYC Sports "
   puts "The Knicks are horrific this season but Rangers are exciting!!!"
 end
 
-greeting
-greeting
-greeting
-greeting
-greeting
-greeting
+NYCSPORTS
